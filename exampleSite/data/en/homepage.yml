@@ -60,7 +60,7 @@ about_product:
   enable: true
   title: Why Choose Our product
   items:
-  - image: images/product/features5.svg
+  - image: images/product/features5.png
     title: State-of-the-art production
     content: Cable manufacturing 'made in Bangladesh' at our state-of-the-art production
       sites in Dhaka and Jhinaidah.
