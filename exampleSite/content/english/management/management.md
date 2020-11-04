@@ -1,7 +1,6 @@
 +++
 date = 2020-11-03T18:00:00Z
 description = "Management structure of Smart Chem Cable Industries Limited"
-draft = true
 image = "/images/brands/1.png"
 title = "Management"
 [menu.footer]
